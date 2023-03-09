@@ -25,5 +25,5 @@ dev_dependencies:
 flutter:
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - demo.png
+  # assets:
+  #   - demo.png
